@@ -5,6 +5,8 @@ Version 7.1.17 de PHP;
 Version Drush Commandline Tool 9.3.0;
 Version Composer 1.6.5;
 
+Faire un composer install dans le terminal;
+
 Name BDD : eval_cms
 
 Module Metatag version 8.x-1.5 :
